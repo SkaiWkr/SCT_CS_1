@@ -6,8 +6,8 @@ Caesar Cipher Tool - Internship Project
 A comprehensive implementation of the Caesar cipher encryption algorithm
 with interactive CLI interface, file operations, and cryptanalysis features.
 
-Author: [Your Name]
-Date: June 2025
+Author: Siddhant Mandal
+Date: 17 June 2025
 Project: Software Development Internship
 """
 
