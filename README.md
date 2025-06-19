@@ -52,10 +52,10 @@ The algorithm wraps around: X → A, Y → B, Z → C
 🤝 Contributing
 Contributions are welcome! Feel free to:
 
-Report bugs or suggest features
-Improve documentation
-Add new cipher algorithms
-Enhance the user interface
+Report bugs or suggest features; 
+Improve documentation; 
+Add new cipher algorithms; 
+Enhance the user interface.
 
 📚 Internship Project
 This project was developed as part of my software development internship to demonstrate:
